@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IvanSIdIT
 - 👀 I’m interested in IT and football
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning HTML, CSS and JS
 - 📫 How to reach me: My Telegram: @ivanfcb1
 
 <!---
