@@ -1,7 +1,12 @@
 - 👋 Hi, I’m Ivan
-- 👀 I’m interested in IT, Computer games and football
-- 🌱 I’m currently learning HTML, CSS and JS
-- 📫 How to reach me: My Telegram: @ivanfcb1
+-"I'm the cook. I'm the men who killed Gus Fring."
+-"Bullshit. Cartel got Fring"
+-"Are you sure?"
+<!---Mike proofs---!>
+-"That's right."
+-"Now... say my name"
+-"Heisenberg"
+-"You're goddamn right"
 
 <!---
 IvanSIdIT/IvanSIdIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
