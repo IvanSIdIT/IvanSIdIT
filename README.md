@@ -1,12 +1,12 @@
-- 👋 Hi, I’m Ivan
+- 👋 Hi, I’m Ivan <br>
 -"I'm the cook. I'm the men who killed Gus Fring." <br>
--"Bullshit. Cartel got Fring"
--"Are you sure?"
-<!---Mike proofs---!>
--"That's right."
--"Now... say my name"
--"Heisenberg"
--"You're goddamn right"
+-"Bullshit. Cartel got Fring"<br>
+-"Are you sure?"<br>
+<!---Mike proofs---!><br>
+-"That's right."<br>
+-"Now... say my name"<br>
+-"Heisenberg"<br>
+-"You're goddamn right"<br>
 
 <!---
 IvanSIdIT/IvanSIdIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
