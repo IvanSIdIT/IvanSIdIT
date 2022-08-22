@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ivan
--"I'm the cook. I'm the men who killed Gus Fring."
+-"I'm the cook. I'm the men who killed Gus Fring." <br>
 -"Bullshit. Cartel got Fring"
 -"Are you sure?"
 <!---Mike proofs---!>
