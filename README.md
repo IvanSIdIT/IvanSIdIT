@@ -2,7 +2,7 @@
 -"I'm the cook. I'm the men who killed Gus Fring." <br>
 -"Bullshit. Cartel got Fring"<br>
 -"Are you sure?"<br>
-<!---Mike proofs---!><br>
+*Mike proofs*<br>
 -"That's right."<br>
 -"Now... say my name"<br>
 -"Heisenberg"<br>
