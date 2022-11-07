@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ivan <br>
+- 👋 Hi, I’m Iban <br>
 -"I'm the cook. I'm the men who killed Gus Fring." <br>
 -"Bullshit. Cartel got Fring"<br>
 -"Are you sure?"<br>
