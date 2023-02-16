@@ -1,16 +1,12 @@
-- 👋 Hi, I’m Ivan <br>
--"I'm the cook. I'm the men who killed Gus Fring." <br>
--"Bullshit. Cartel got Fring"<br>
--"Are you sure?"<br>
-*Mike proofs*<br>
--"That's right."<br>
--"Now... say my name"<br>
--"Heisenberg"<br>
--"You're goddamn right"<br>
- 
-<!---
-IvanSIdIT/IvanSIdIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Мой стек технологий:
+
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow"/> <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=red"/> <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/Gulp-black?style=for-the-badge&logo=gulp&logoColor=red"/> <img src="https://img.shields.io/badge/SASS/SCSS-black?style=for-the-badge&logo=sass&logoColor=CC6699"/>
+
+Связь: 
+
+-Telegram: @ivanfcb1 <br> 
+-Gmail: sidelnicov2006@gmail.com
+
+Ниже закреплены репозитории моих пет-проектов:
    
 
