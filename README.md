@@ -7,6 +7,6 @@ Connect:
 -Telegram: @ivanfcb1 <br> 
 -Gmail: sidelnicov2006@gmail.com
 
-Bellow are repositoryes of my pet-projects:
+Below are repositories of my pet-projects:
    
 
