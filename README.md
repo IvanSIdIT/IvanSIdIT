@@ -4,7 +4,7 @@ My stack:
 
 Contacts: 
 
--Telegram: @ivanfcb1 <br> 
+-Telegram: @ivan_side <br> 
 -Gmail: sidelnicov2006@gmail.com
 
 Below are repositories of my pet-projects:
